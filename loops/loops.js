@@ -152,7 +152,6 @@ Let’s check out the syntax of a break keyword:
 
 const rapperArray = ["Lil' Wayne", "J. Cole", "Drake", "Kendrick Lamar"];
 
-// Write your code below
 for (let i = 0; i < rapperArray.length; i++){
   console.log(rapperArray[i]);
   if (rapperArray[i] === 'Drake'){
