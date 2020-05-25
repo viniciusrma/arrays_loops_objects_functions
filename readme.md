@@ -1,8 +1,6 @@
 # Welcome to my personal cheat sheet of arrays, loops & objects!
 
-  
-
-## Folders & Files
+## Arrays
 1 - Arrays
 
 	1 - Definition of arrays
