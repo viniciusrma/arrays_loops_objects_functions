@@ -171,10 +171,10 @@ The elements that cause the callback function to return true are added to the ne
 Take a look at the following example:
 */
 
-const words = ['chair', 'music', 'pillow', 'brick', 'pen', 'door']; 
+const allmembers = ['chair', 'music', 'pillow', 'brick', 'pen', 'door']; 
 
-const shortWords = words.filter(word => {
-  return word.length < 6;
+const members = allmembers.filter(member => {
+  return member;
 });
 
 /*
