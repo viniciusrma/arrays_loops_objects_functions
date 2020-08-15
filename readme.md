@@ -1,8 +1,6 @@
 # Welcome to my personal cheat sheet of arrays, loops & objects!
 
-  
-
-## Folders & Files
+## Arrays
 1 - Arrays
 
 	1 - Definition of arrays
@@ -97,4 +95,4 @@
 
    
 
-### Thank you for getting here! I hope that my studies and notes serve to make your life as ~~strikethrough text~~a developer easier, as they do to me. 
+### Thank you for getting here! I hope that my studies and notes serve to make your life as a developer easier, as they do to me. 
